@@ -12,6 +12,8 @@ patterns = {
 
     "what are you doing": ["I am talking to you dear."],
 
+    "fine": ["That's good to hear!", "I'm glad you're doing well.", "Great!", "Awesome! Anything exciting happening in your life?", "Fantastic! Is there anything I can do to make your day even better?"],
+
     "are you single": ["No, I am in a relationship, with the internet or wifi.."],
 
     "tell me about your self": ["I am Friday, A Personal Virtual A.I. Assistant, I Am the Second Version Of ChatBot."],
